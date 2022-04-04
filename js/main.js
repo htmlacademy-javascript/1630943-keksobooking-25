@@ -7,4 +7,4 @@ function getRandomArbitrary(min, max, degree) {
   return (Math.random() * (max - min) + min).toFixed(degree);
 }
 
-getRandomArbitrary (1, 2, 5)
+getRandomArbitrary (1, 2, 5);
